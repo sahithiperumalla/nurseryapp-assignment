@@ -1,0 +1,39 @@
+.first-container {
+  background-color: #d9f0d9; 
+  border: 1px solid #1b4d3e; 
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 400px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.first-heading {
+  color: #1b4d3e;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.first-container p {
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.location-dropdown {
+  padding: 8px 12px;
+  margin: 10px 0 20px 0;
+  border-radius: 8px;
+  border: 1px solid #1b4d3e;
+  font-size: 16px;
+}
+
+.flower-list {
+  list-style-type: circle; 
+  padding-left: 20px;
+  color: #1b4d3e;
+  font-weight: bold;
+  text-align: left;
+  max-width: 200px;
+  margin: 0 auto;
+}
